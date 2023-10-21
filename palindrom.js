@@ -22,9 +22,9 @@ let palindroms = [
         reversed = reversed.reverse();
         reversed = reversed.join("");
         console.log(reversed);
-        if (str == reversed){
-          pals.
-        }
+        // if (str == reversed){
+        //   pals.
+        // }
         //pals[i] = reversed;
     }
     return pals;
